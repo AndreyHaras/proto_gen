@@ -1,4 +1,4 @@
-module github.com/AndreyHaras/protos_files
+module github.com/AndreyHaras/proto_gen
 
 go 1.23.4
 
